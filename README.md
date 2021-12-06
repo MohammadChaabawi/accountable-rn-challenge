@@ -9,14 +9,14 @@ Install my-project with npm
 
 ```bash
 IOS:
- npm install
+ yarn
  cd ios 
  pod install
  cd ..
  react-native run-ios
 
 Android:
- npm install
+ yarn
  react-native run-Android
 ```
     
@@ -26,6 +26,6 @@ Android:
 To run tests, run the following command
 
 ```bash
-  npm run test
+  yarn test
 ```
 
