@@ -17,7 +17,7 @@ IOS:
 
 Android:
  yarn
- react-native run-Android
+ react-native run-android
 ```
     
     
