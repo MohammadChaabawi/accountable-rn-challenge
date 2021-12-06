@@ -5,7 +5,7 @@ A React Native project implemented with Typescript and Redux. It is developed to
 
 ## Installation
 
-Install my-project with yarn
+Install my project with yarn
 
 ```bash
 IOS:
